@@ -1,4 +1,4 @@
-Work Summary: December 2023 - August 2024
+Work Summary: December 2023 - August 2024 🚀
 📊 Project Overview
 
     Client: Emotorad
@@ -11,24 +11,29 @@ Work Summary: December 2023 - August 2024
 🚀 Key Responsibilities
 
     Testing & QA Management:
-        Designed and executed 200+ test cases for smoke/sanity testing, focusing on critical features for alpha and beta releases.
-        Developed 1000+ test cases for comprehensive regression testing, covering end-to-end scenarios.
-        Created 500+ test cases for backend API testing using Postman, including requests, responses, authentication, and negative testing across various HTTP methods.
+        🛠️ Designed and executed 200+ sanity test cases for alpha and beta releases.
+        🧪 Developed 1000+ regression test cases covering end-to-end scenarios.
+        🔍 Created 500+ API test cases using Postman for diverse testing needs.
+
     Database & Cloud Testing:
-        Conducted database testing with Beekeeper Studio on PostgreSQL and Cassandra, and ensured data integrity for E-bike live data.
-        Validated E-bike data fetched from AWS S3 via a client-created dashboard, ensuring accuracy and completeness.
+        🗄️ Conducted database testing with Beekeeper Studio on PostgreSQL and Cassandra.
+        ☁️ Validated E-bike data from AWS S3 using a client-created dashboard.
+
     Performance & Load Testing:
-        Performed monthly load testing using Apache JMeter, simulating up to 10,000 virtual users, and documented observations for the backend team.
+        📈 Performed monthly load testing with Apache JMeter, simulating up to 10,000 virtual users.
+
     Bug Reporting & Tracking:
-        Reported 450+ bugs in Jira, with 350+ resolved. Monitored and managed over 400+ bugs, including UAT bugs raised by the product team.
+        🐞 Reported 450+ bugs in Jira; 350+ resolved.
+        🔄 Monitored and managed over 400+ bugs, including UAT bugs.
+
     UAT & End-to-End Testing:
-        Retested UAT bugs and updated resolutions, particularly focusing on features like activity tracking, battery testing, TPMS, and geofencing.
+        ✅ Retested UAT bugs and updated resolutions focusing on key features.
 
 📈 Achievements & Impact
 
-    Award: Received the "Pat on the Back" award from Qualitrix Technology for outstanding performance, along with a gift voucher.
-    Build Validation: Validated 100+ new builds from V1.2 to V8.2, performing regression testing for alpha (February) and beta (April) releases, and GTM and R3 releases (present).
-    Continuous Improvement: Updated and designed test cases for new feature implementations and frequent UI changes, ensuring up-to-date coverage.
+    🏆 Awarded the "Pat on the Back" for outstanding performance from Qualitrix Technology.
+    🔍 Validated 100+ new builds, including alpha (Feb), beta (Apr), and GTM/R3 releases.
+    📋 Updated and designed test cases for new features and frequent UI changes.
 
 📅 Milestones Achieved
 
@@ -45,15 +50,13 @@ Work Summary: December 2023 - August 2024
     Cloud: AWS S3
     Design & Collaboration: Figma, Kanban Board, GitHub
 
-📊 Charts & Metrics (Updated)
+📊 Charts & Metrics
 
     Sanity Testing Coverage: [Link to Sanity Testing Sheet]
     Regression Testing Coverage: [Link to Regression Testing Sheet]
     Bug Count: [Screenshot/Link to Jira Dashboard]
-    
-    
 
 ✨ Conclusion
 
-    Successfully managed and executed comprehensive testing strategies for the Amigo Plus app, contributing to the stability and performance of the product. Continuously upskilled in automation, cloud technologies, and CI/CD, aiming to implement these practices in future projects.
+Successfully managed and executed comprehensive testing strategies for the Amigo Plus app, contributing to its stability and performance. Continuously upskilling in automation, cloud technologies, and CI/CD for future projects.
 
