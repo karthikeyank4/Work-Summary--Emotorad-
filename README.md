@@ -52,9 +52,9 @@ Work Summary: December 2023 - August 2024 🚀
 
 📊 Charts & Metrics
 
-    Sanity Testing Coverage: [Link to Sanity Testing Sheet]
-    Regression Testing Coverage: [Link to Regression Testing Sheet]
-    Bug Count: [Screenshot/Link to Jira Dashboard]
+    Sanity Testing Coverage: [https://github.com/karthikeyank4/Sanity-Test-Reprot-]
+    Regression Testing Coverage: [https://github.com/karthikeyank4/Regression-Report-EMotorad]
+    Bug Count: [https://github.com/karthikeyank4/Bug-Reporting---Amigo-Project]
 
 ✨ Conclusion
 
