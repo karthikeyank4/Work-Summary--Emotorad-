@@ -1,6 +1,6 @@
-The copy and paste icon and the horizontal scroll bar issue typically occur when text formatting causes the content to overflow. To fix this, we can remove any excessive indentation and simplify the formatting. Here’s a cleaner version:
 
----
+
+
 
 ## **Work Summary: December 2023 - August 2024** 🚀
 
@@ -76,6 +76,3 @@ The copy and paste icon and the horizontal scroll bar issue typically occur when
 
 Successfully managed and executed comprehensive testing strategies for the Amigo Plus app, contributing to its stability and performance. Continuously upskilling in automation, cloud technologies, and CI/CD for future projects.
 
----
-
-This formatting should eliminate the copy-paste icons and the horizontal scrolling issue, making it more professional for your GitHub profile.
