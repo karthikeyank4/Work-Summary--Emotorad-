@@ -2,7 +2,7 @@
 
 
 
-## **Work Summary: December 2023 - August 2024** 🚀
+## **Work Summary: December 2023 - Present 🚀
 
 ### **📊 Project Overview**
 **Client:** Emotorad  
